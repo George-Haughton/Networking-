@@ -149,6 +149,9 @@ A repeater is a device that is used within a network to increase the strength of
 
 #### Bridges
 A bridge is used to connect a network to another network that is using a bridge, but they can only connect if they are using the same protocols if not they it can cause connection problems, because bridges use an internal database to determine what types of trafic is allowed in or out of that network.
+
+#### Wireless device
+A wireless device is a device that does not need to be physically wired to the network to be able to connect to it.
  
 #### Access point
 An access point is a way of a user connecting to a network while they are not physically connect to that network. A common access point is a wireless access point as it uses Wi-Fi to allow the user to connect to the network remotely.
@@ -166,7 +169,56 @@ This is used to connect networks using the existing telephone lines in the area,
 A packet shaper is a device that sits in between the internal network and external network, it is used to prioritize certain piece of data that is being sent over a network using pre defined rules. If slowls down things like messages to allow things like security information to pass through faster.
 
 #### VPN concentrator
-A VPN concentrator main job is to allow multiple users to use the same VPN (as long as they are on the same network). The way it does this is by 
+A VPN concentrator main job is to allow multiple users to use the same VPN (as long as they are on the same network). The way it does this is by co-ordinating and organising traffic on a network between the machines that are trying to acces the VPN.
+
+#### Web
+A web server in simple terms stores and sends data on websites over the internet. A user will request to the web server see a website or a piece of data, then web server will handle this request by sending back/displaying the information that the user has requested, also thousands of requests can be completed at once.
+
+#### File
+A file server is a server that is used to hold and store data/files for users on a network from them to access. This file/data can be accessed by anyone unless it has been made private then only the user that has made it private can access it.
+
+#### Database
+A database is a server that stores data in categories or fields. These fields and categories are all related to one another and so all of the same type of data is in one place. An example of a database server in everyday life, is when at a supermarket when an item is scanned, the device will look through the database and pull up any information relating to that item.
+
+#### Combination
+A combination server can combined all the functions of the other servers but in one place and on one server, a few examples of the servers it can incorporate are database, web and file.
+
+#### Virtual
+A virtual server is a server that has the functionality of a physical server but is nothing more than a small system that is loaded with special software. Its software helps it perform that tasks that are needed of it by the server.
+
+#### Terminal services server
+This server will give other computers that are connected to the other devices with a pth to connect to another LAN or WAN. Unlike most the computers do not need to be connected to a router or even a switch to make the connection.
+
+### Workstation software and hardware
+Here are some examples and definitions on what is needed to create a network:
+
+#### Client software
+This is a piece of software that works with and within LANs and WANs, they also act as an interface betweenthe user's/client's computer and the server that is on its network. In simple terms it is a piece of software that performs any type of task on the user's/clients machine.
+
+#### Server software
+Certain software is installed/added to a server to make sure that server can do a specific task. The type of software a server has will decide what type of server it is. There are a few tasks a serevr can perform and they range from file transfer all the way to web hosting.
+
+#### Client operating system
+The operating system also knows as the OS works within the client's computer to allow it to operate on its own. An example of something it allows the user to do is to web browse. An operating system allows the client to use the computer as efficently as possible, additionally it provides the user with a detailed and extensive user interface (UI). Two of the most common client operating systems  would be Windows or Mac.
+
+#### Server operating system
+The server operating system is similar to the client operating system but instead of it being on a computer the OS is on a server, and it includes server features to help the server run efficently and effectively. A few things a server might have to do that the OS would help with would be communicating with a device or managing files.
+
+#### Firewall 
+Within a server a firewall will have a set of rules it will follow to allow or disallow certain types of data to enter or leave the server. An example of a piece of data it would refuse entry would be any type of virus as well as anything that might be deemed as malicious. A firewall reduces the risk of anything getting in or out of the server that could harm a system, another server or device.
+
+#### Proxies
+A proxy server is a server that handles web requests for users that are connected to that server. Normally the user's request would be sent straight to the web server, but in this case it is sent to the proxy server which then checks the request to see if it contains any malicious data or anything that might have been banned on the network already. This adds a level of security to prevent anything from damaging the network or server.
+
+### Network and cabling
+
+#### Network comparision
+A network card is a piece of hardware that will allow any computer to connect to a network. The card will allow the computer to communicate and exchange data with the network and is a very useful tool to use when trying to connect to the internet. Additionally, the card will be connected to the network via cables. On the other hand we have the wireless connection option which allows a computer to connect to the network without any physical cabling. This means the network can be accessed by the computer via Wi-Fi which is a form of wireless network, which uses radio waves that are sent at certain frequencies to send/transmit data. Lastly, we have the mobile network which is where a network is distributed over an area using cell towers. The main difference between all three is how they go about connecting and transmitting data. 
+
+#### Cabling
+We use cabling to connect devices, computers and hardware together to aid in the process of transmitting data. Cabling connections can only be used if the distance between the two devices are small enough that a cable can reach from one to the other. Thats where wireless connections have an advantage over cabling as wireless connections can cover huge areas.
+
+##### 
 
 
 
