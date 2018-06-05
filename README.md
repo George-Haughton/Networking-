@@ -37,4 +37,35 @@ Data link - Like the presentation layer this layer can also be used to encrypt d
 
 Network - This layer makes sure each piece of data being sent will have the correct informtaion it needs to get to where its meant to be. Where travelling from node to node this layer will also create virtual circuits to help with the transmitting of data.
 
+### TCP/IP Model
+Application - This layer is used to assign the correct protocol to the correct type of data. Additionally, is is used to provide network services to applications. The network processes and protocols that are used within this layer are: Simple mail transport protocol (SMTP), File transfer protocol (FTP) and finally Hypertext transfer protocol (HTTP).
+
+Transport - This layer is used to create and manage the communication between the reciever and the sender. There are two main protocols which are used in the running of this layer. One being UDP and the other TCP. UPD does not check if the data has been sent or recieved, it just send the data and hopes for thes best. Whereas within TCP there is a set system that checks to see if the reciever has recevied the data.
+
+Internet - This layer will contain the packet construct that will be sent/transmitted. Additionally, it will organize the data into packets before it is sent off. To make sure the correct reciever recieves the correct packet the recievers IP address is used to pin point exactly where it should be transmitted.
+
+Network access - This layer is in charge of interfacing with your networks's architecture. A few protocols carried out within this layer are mapping IP addresses to physical hardware addresses (MAC addresses), the encapsulation of the IP packets into frames for their  transportation and the use of protocols for the transmission of the data. This layer will also check the data that has been sent or recieved to see if it contains any errors.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
