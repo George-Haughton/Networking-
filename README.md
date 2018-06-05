@@ -150,38 +150,23 @@ A repeater is a device that is used within a network to increase the strength of
 #### Bridges
 A bridge is used to connect a network to another network that is using a bridge, but they can only connect if they are using the same protocols if not they it can cause connection problems, because bridges use an internal database to determine what types of trafic is allowed in or out of that network.
  
- 
+#### Access point
+An access point is a way of a user connecting to a network while they are not physically connect to that network. A common access point is a wireless access point as it uses Wi-Fi to allow the user to connect to the network remotely.
 
+#### Content filter
+A content filter uses a pre determined set of rules that is can use to compare to any incomming piece of data. It is used to check if any of the incomming data is malicious or spam. A lot of email apps and servers use this to filter out all of the spam emails that are trying to invade people emails.
 
+#### Load Balancer
+A load balancer is a simple idea but very effective. Its role it so spread out the workload/traffic to prevent congestion and to prevent any thing slowly down because it has to much traffic.
 
+#### Modem
+This is used to connect networks using the existing telephone lines in the area, while this is good as it can reach remote areas its speed is not very high. Additionally, it is used to convert digital and analog signals.
 
+#### Packet shaper
+A packet shaper is a device that sits in between the internal network and external network, it is used to prioritize certain piece of data that is being sent over a network using pre defined rules. If slowls down things like messages to allow things like security information to pass through faster.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### VPN concentrator
+A VPN concentrator main job is to allow multiple users to use the same VPN (as long as they are on the same network). The way it does this is by 
 
 
 
