@@ -218,7 +218,26 @@ A network card is a piece of hardware that will allow any computer to connect to
 #### Cabling
 We use cabling to connect devices, computers and hardware together to aid in the process of transmitting data. Cabling connections can only be used if the distance between the two devices are small enough that a cable can reach from one to the other. Thats where wireless connections have an advantage over cabling as wireless connections can cover huge areas.
 
-##### 
+##### Patch cabling
+Patch cables are most commonly used to connect devices to switches, hubs and routers within a network, and are used to connect home networks and business networks as their limit is small.
+
+##### Shielded cabling
+These cables are similar to patch but they contain a type of shielding that increase the signals strenght over long distances, which also protects againsts any interferences.
+
+##### Twisted pair cables
+These cables are very simple and are two copper wire cables twisted onto one another to create one wire. This decreases the chance of signal loss.
+
+#### Permissions
+As the name suggests permissions are used to stop certain people from accessing data they shouldnt. Permissions are set up to make sure only people that are meant to have access to certain data. There are two main types if permissions. The first being New technology file system, which is a file system that is installed onto Window machines and users can set up for example a read only file which means they can add permissions to this file so that only users they want to be able to edit that file can and others cannot. The other type of permission being a shared permission which can be set up for multiple users, and are setb rules that the group has to follow when trying to access files on the network.
+
+#### Workstation
+These computers are designed to contain special components to help them perform better on certain tasks than say a normal computer would. The most common characteristic of a workstation would be clocking the CPU to increase its speed drastically. Another common characteristic of a workstation would be its huge ram size which in some cases can be as high as 128GB, these to characteristics provide the workstation with the necessary power it needs to perform certain tasks better than most computers.
+
+#### System bus
+In simple terms a system bus is a group of internal connections that connect of the individual components of a computer together, and allow them to exhange or communicate with one another. These connections are essential in an efficent working computer because if not the ram may have recieved a task but as it is not connected to the CPU the CPU is not aware a task needs to be completed. A system bus address is used to share the memory of all the components within the computer, it is used to make sure that all of the components are working together as one.
+
+### Design and implement a network
+We had to design a network that consisted of 2 LANs that were connect via two routers. Each LAN had to have 3 computers and 1 server which all conncted to a switch, that then connect to a router. Both these networks had to work with each other so that we were able to send packets of data from one network to the other, or from one device to another. Here is my design concept I used for my networks:
 
 
 
