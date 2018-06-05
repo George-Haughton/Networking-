@@ -239,6 +239,47 @@ In simple terms a system bus is a group of internal connections that connect of 
 ### Design and implement a network
 We had to design a network that consisted of 2 LANs that were connect via two routers. Each LAN had to have 3 computers and 1 server which all conncted to a switch, that then connect to a router. Both these networks had to work with each other so that we were able to send packets of data from one network to the other, or from one device to another. Here is my design concept I used for my networks:
 
+![](https://gyazo.com/0b3512005b9cd0de74efd12dc5d10bfd.png)
+
+As you can see from my design concept I created two LANs which were connected using two routers, which were both connected to a switch, which both had 3 computers within it and both had their own server, and as you can see from the design i chose to use the star topology. Overall, I feel as it was a successful design as it covered all of the requirements while laying it out in an easy to read, professional manner.
+
+Here are the IP addresses I used within my networks:
+
+Simpsons network:
+
+Computer 1 - 192.168.1.100
+Computer 2 - 192.168.1.101
+Computer 3 - 192.168.1.102
+Server - 192.168.1.10
+Router - 192.168.1.1
+
+Family guy network: 
+Computer 1 - 192.168.10.100
+Computer 2 - 192.168.10.101
+Computer 3 - 192.168.10.102
+Server - 192.168.10.10
+Router - 192.168.10.1
+
+##### User feedback
+I asked a few of my college peers to give their opinions on my design based off the requirements and here are the verdicts:
+
+Dan said: 'I feel the design meets the requirements and would say that you are ready to start actually making the networks'
+
+Mark said: 'In my opinion it meets the requirements but it would be good if you added a printer into the mix'
+
+Both seemed to like my design but Mark seemed to think it would be a good idea to add a printer to my network. While I agree with what he is saying, a printer was not in the requirements.
+
+As I had already designed the network and look over my feedback I alreadly knew exactly what I needed to do when making my networks. This is a finished screeshot of my networks and I couldnt be more pleased. As I went through creating my networks I created a tick list to make sure I was completing everything before moving onto something else this helped me make sure I covered all of the requirements. As an added bonus I went ahead an added names to each network and computers to give my networks a unique touch. As you can see from the picture the left network is called Springfield (where Simpsons is set) and the computers are named after characters from the Simpsons. Whereas the right network is called Quahog (where Family guy is set) and the computers are named after the characters from Family guy. Lastly, I added lable to my networks to make sure it was easy to read and I did not need to click on each computer to show each ones IP address.
+
+![](https://gyazo.com/b9b80bf92f7beb1c43f2851418592897.png)
+
+
+
+
+
+
+
+
 
 
 
