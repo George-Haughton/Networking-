@@ -127,7 +127,30 @@ Communication in computing terms is referring to the sending and receiving of da
 ### Operating principles (glossary)
 
 #### Hubs 
+Hubs are used as connection points for networks, they route and manage traffic over the local connections. This means all users dont get a copy but it alos slows down the system as a whole.
 
+#### Routers
+Routers connect multiple local networks. Each packet of data that is sent to the router will have an address attached to it, with this information the router will know where to send it and which route is the best for it to take.
+
+#### Switches 
+A switch is similar to a hub in the sense that it takes and routes data to the machines connected to a LAN but instead of sending one piece of data at a time it send a copy of the data to every machine on the network, this speeds up the system but can be an easy way for a hacker to infiltrate several computers at once.
+
+#### Multilayer switches
+A multilayer switch is similar to a switch but can perform more efficently and faster because of its added features of a router.
+
+#### Firewall
+A firewall is a device that is usually placed as the gateway device to another network and it looks at all traffic coming in and out of the network and allows and disallows certain types of traffic depending on the rules regarding the use of that network.
+
+#### HIDS
+A HIDS which stands for Host-based intrusion detection system, is a system that like a firewall looks at data but instead of waiting for the data to pass through it, it will search for any abnormalities within the packet or within the internals of the computer, to make sure nothing that could cause harm is allowed in.
+
+#### Repeaters
+A repeater is a device that is used within a network to increase the strength of a signal that is being sent over a big distance on a physical LAN, this is good as it can increase the size of the LAN itself.
+
+#### Bridges
+A bridge is used to connect a network to another network that is using a bridge, but they can only connect if they are using the same protocols if not they it can cause connection problems, because bridges use an internal database to determine what types of trafic is allowed in or out of that network.
+ 
+ 
 
 
 
