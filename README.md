@@ -274,7 +274,7 @@ As I had already designed the network and look over my feedback I alreadly knew 
 ![](https://gyazo.com/b9b80bf92f7beb1c43f2851418592897.png)
 
 ### Testing my network
-I needed to test aspect of my networks to make sure it fully worked and that it met the requirements. My test plan shows the amount of tests I did, a description if the test, what I expected to happen when I tested it and finally what actually happened when I tested it. For example I tested to see if I could ping PCs using IP addresses and if I could ping PCs using their display names and as you can see from the test I was succesffuly able to ping PCs either using their IP address or their display name.
+I needed to test aspects of my networks to make sure it fully worked and that it met the requirements. My test plan shows the amount of tests I did, a description if the test, what I expected to happen when I tested it and finally what actually happened when I tested it. For example I tested to see if I could ping PCs using IP addresses and if I could ping PCs using their display names and as you can see from the test I was succesffuly able to ping PCs either using their IP address or their display name.
 
 ![](https://gyazo.com/d19e8d132b505bcd4868cfefb87bd442.png)
 
