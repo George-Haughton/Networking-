@@ -241,6 +241,8 @@ We had to design a network that consisted of 2 LANs that were connect via two ro
 
 ![](https://gyazo.com/0b3512005b9cd0de74efd12dc5d10bfd.png)
 
+#### Evalutaing and testing my design
+
 As you can see from my design concept I created two LANs which were connected using two routers, which were both connected to a switch, which both had 3 computers within it and both had their own server, and as you can see from the design i chose to use the star topology. Overall, I feel as it was a successful design as it covered all of the requirements while laying it out in an easy to read, professional manner.
 
 Here are the IP addresses I used within my networks:
