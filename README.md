@@ -100,7 +100,7 @@ POP3:
 
 This protocol works together with the SMTP protocol. The Post office protocol 3 (POP3) is used to recieve emails, then these emails are held by your internet server.
 
-#### The impact of networking topology, communication and bandwidth
+### The impact of networking topology, communication and bandwidth
 
 Here are a few examples of Topologies:
 
