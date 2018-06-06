@@ -273,7 +273,13 @@ As I had already designed the network and look over my feedback I alreadly knew 
 
 ![](https://gyazo.com/b9b80bf92f7beb1c43f2851418592897.png)
 
+### Testing my network
+I needed to test aspect of my networks to make sure it fully worked and that it met the requirements. My test plan shows the amount of tests I did, a description if the test, what I expected to happen when I tested it and finally what actually happened when I tested it. For example I tested to see if I could ping PCs using IP addresses and if I could ping PCs using their display names and as you can see from the test I was succesffuly able to ping PCs either using their IP address or their display name.
 
+![](https://gyazo.com/d19e8d132b505bcd4868cfefb87bd442.png)
+
+### Evalutaion
+Overall, I feel this project was a success. I feel this was because the requirements were to design a network that consisted of 2 LANs that were connect via two routers. Each LAN had to have 3 computers and 1 server which all conncted to a switch, that then connect to a router. Both these networks had to work with each other so that we were able to send packets of data from one network to the other, or from one device to another. As you can see from my test result, my design and my finished network I met every requirement and even added more such as lables and names for each computer and network. If I were to come back and re-do this project there are a few things I would do differentlyor things I would add. Firstly, I would like to add a printer or access point to my networks as this would make my networks stand out and provide my computers within my network to connect to the network without physically being connect to the network. Additionally, I would like to have more computers within my networks as I would like the challenge of trying to get them all to connect, Lastly, I would like to add fibre-optic connections as it would increase the speed of my networks making them perform better.
 
 
 
