@@ -271,6 +271,7 @@ Mark said: 'In my opinion it meets the requirements but it would be good if you 
 
 Both seemed to like my design but Mark seemed to think it would be a good idea to add a printer to my network. While I agree with what he is saying, a printer was not in the requirements.
 
+#### Implementing a networked system
 As I had already designed the network and look over my feedback I alreadly knew exactly what I needed to do when making my networks. This is a finished screeshot of my networks and I couldnt be more pleased. As I went through creating my networks I created a tick list to make sure I was completing everything before moving onto something else this helped me make sure I covered all of the requirements. As an added bonus I went ahead an added names to each network and computers to give my networks a unique touch. As you can see from the picture the left network is called Springfield (where Simpsons is set) and the computers are named after characters from the Simpsons. Whereas the right network is called Quahog (where Family guy is set) and the computers are named after the characters from Family guy. Lastly, I added lable to my networks to make sure it was easy to read and I did not need to click on each computer to show each ones IP address.
 
 ![](https://gyazo.com/b9b80bf92f7beb1c43f2851418592897.png)
